@@ -1,0 +1,15 @@
+.Banner__bottom__section {
+  margin-top: 700px;
+}
+.player__videos {
+  margin-left: -54px;
+  margin-top: 52px;
+}
+.player__videos img {
+  margin-top: 10px;
+  -webkit-border-radius: 50%;
+  border-radius: 50%;
+  -webkit-box-shadow: -10px 10px 15px rgb(0 0 0 / 50%);
+  box-shadow: -10px 10px 15px rgb(0 0 0 / 50%);
+  background: #fff;
+}

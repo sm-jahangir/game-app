@@ -1,5 +1,6 @@
 import "./App.css";
 import Banner from "./Pages/Home/Banner";
+import BannerBottom from "./Pages/Home/BannerBottom";
 import NavbarComponent from "./Pages/Shared/NavbarComponent";
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div className='App'>
       <NavbarComponent />
       <Banner />
+      <BannerBottom />
     </div>
   );
 }
