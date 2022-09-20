@@ -1,0 +1,9 @@
+.nav-item {
+    font-weight: bolder;
+}
+.nav-item a {
+    color: #444a99;
+    font-family: Ubuntu;
+    font-weight: 700;
+    font-size: 20px;
+}
