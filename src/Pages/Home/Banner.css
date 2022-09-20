@@ -1,0 +1,37 @@
+.main__bannerSection {
+    position: relative;
+}
+.main__bannerSection .banner__cover__image {
+    position: absolute;
+    top: 5px;
+    left: 50%;
+    margin: 0 auto;
+    width: 99vw;
+    max-width: none;
+    max-height: none;
+    min-width: 180vh;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+.main__bannerSection .banner__cover__top {
+    position: absolute;
+    top: 80px;
+    left: 50%;
+    margin: 0 auto;
+    width: 100%;
+    -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+.intro__title__section {
+    position: absolute;
+    top: 36vh;
+    left: 469px;
+}
+.intro__button {
+    margin-top: 120px;
+}
+.intro__button a{
+    font-weight: bold;
+}
